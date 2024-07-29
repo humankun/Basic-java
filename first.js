@@ -18,13 +18,4 @@ const product = {
     discount:"5%"
 };
 console.log(product);
-
-const profile= {
-    fullName:"shradhakhapra",
-    posts:195,
-    followers:"569K",
-    following:4,
-    threads:"@shradhakhapra",
-    currentPosition:"Entrepreneur",
-    about:"Apna college|Ex-microsoft,DRDO,To educate someone is the highest privilege <3"
 }
